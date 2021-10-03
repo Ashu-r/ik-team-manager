@@ -7,8 +7,10 @@ const PlayersTable = ({ title, data }) => {
 			<h4>{title}</h4>
 			<Table striped bordered hover size='sm'>
 				<thead>
-					<th>Name</th>
-					<th>Rank</th>
+					<tr>
+						<th>Name</th>
+						<th>Rank</th>
+					</tr>
 				</thead>
 				<tbody>
 					{data.map((p) => (
