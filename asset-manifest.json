@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ik-team-manager/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ik-team-manager/static/js/main.eb9b9bf3.chunk.js",
+    "main.js.map": "/ik-team-manager/static/js/main.eb9b9bf3.chunk.js.map",
+    "runtime-main.js": "/ik-team-manager/static/js/runtime-main.8676e5da.js",
+    "runtime-main.js.map": "/ik-team-manager/static/js/runtime-main.8676e5da.js.map",
+    "static/css/2.f2512455.chunk.css": "/ik-team-manager/static/css/2.f2512455.chunk.css",
+    "static/js/2.5d7a125c.chunk.js": "/ik-team-manager/static/js/2.5d7a125c.chunk.js",
+    "static/js/2.5d7a125c.chunk.js.map": "/ik-team-manager/static/js/2.5d7a125c.chunk.js.map",
+    "static/js/3.11416a71.chunk.js": "/ik-team-manager/static/js/3.11416a71.chunk.js",
+    "static/js/3.11416a71.chunk.js.map": "/ik-team-manager/static/js/3.11416a71.chunk.js.map",
+    "index.html": "/ik-team-manager/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/ik-team-manager/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ik-team-manager/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5d7a125c.chunk.js.LICENSE.txt": "/ik-team-manager/static/js/2.5d7a125c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8676e5da.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.5d7a125c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.eb9b9bf3.chunk.js"
+  ]
+}
